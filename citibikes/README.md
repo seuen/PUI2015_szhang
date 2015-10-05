@@ -1,8 +1,10 @@
-# PUI2015_szhang
-Here is how I predefine the environment variable and alias in .bash_profile
+Topic selection: 
+Each of our group memebers come up with three possible topics for the citibikes data. After a selection process, my idea is chosen to be the one that we are going to analyze using given data.
 
-![alt image](https://github.com/seuen/PUI2015_szhang/blob/master/image/Screen Shot 2015-09-09 at 10.34.57 am.png)
+Specific Constribution:
+1. come up with the final topic on what to study about
+2. finalize the hypothesis and Null hypothesis together with groupmates
+3. complete a statistical test (multivariate regression)
+4. write descriptions for each of the analysis steps in ipython notebook
 
-And here is the command line to demonstrate the usage of env variable and alias
-
-![alt image](https://github.com/seuen/PUI2015_szhang/blob/master/image/Screen Shot 2015-09-09 at 10.35.23 am.png)
+Group Members: My Phan, Ramda Yanurzha, Siying Zhang
