@@ -2,7 +2,7 @@ Topic selection:
 
 Each of our group memebers come up with three possible topics for the citibikes data. After a selection process, my idea is chosen to be the one that we are going to analyze using given data.
 
-Specific Constribution:
+Specific Contribution:
 
 1. come up with the final topic on what to study about
 2. finalize the hypothesis and Null hypothesis together with groupmates
