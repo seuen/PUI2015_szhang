@@ -1,6 +1,6 @@
 # PUI2015_szhang
 The github directory for nvd250's HW8:https://github.com/neilverosh/PUI2015_ndsouza/tree/master/HW8
-![alt image](https://github.com/seuen/PUI2015_szhang/blob/master/HW8/Peer%20Review/neilverosh.png) 
+![alt image](https://github.com/seuen/PUI2015_szhang/blob/master/HW8/Peer%20Review/neil.png) 
 
 * CLARITY
 
