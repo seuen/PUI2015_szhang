@@ -8,14 +8,14 @@ https://github.com/TaniaVM/PUI2015_tvara/tree/master/HW8
 
 The visualization (Average Income Men and Women Per Race in the U.S.) is clear to read, size font is set properly to help identify each avg income value. In addition, income differences between male and female are clearly stated.
 
-ESTHETIC
+* ESTHETIC
 
 Color setting for each race can help to differentiate values for each race. However, it is not clear enough to differentiate the values between male and female. In fact, I believe this visualization could be more effective and visible if they are plotted using bar graph.
 
-HONESTY
+* HONESTY
 
 The visualization is honestly reproducing the average income data.
 
-OTHER SUGGESTION
+* OTHER SUGGESTION
 
 It might be better if you can provide a readme.md file for the visualization.
