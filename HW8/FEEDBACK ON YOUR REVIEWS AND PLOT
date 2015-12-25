@@ -1,0 +1,67 @@
+good job on the reviews 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+the title should be full sentences, not underscored words
+
+the y axis is ambiguous (Rate of what?) and lacks units
+
+the x axis lacks units Ldmk is not explained
+
+the legend does not need a title but if you do choose to use one it should be a descriptive title, while "type" is entirely ambiguous
+
+
+the choice of plotting every datapoint does not allow the eye to understand the structure in the data, sometimes it works, but in this case it does not. 
+
+if you wish to put a line at 0x0 for a 2 panel plot it should be in both plots, unless it is in the same position for both, which is not the case here. 
+
+colors comply with color blindness prescriptions nicely
+
+the grid helps readability
+
+the location of the legend is sensible in that it doesn't seem to cover datapoints
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+nvd250
+============
+
+colors are nicely vivid and color blind compliant
+
+axis labels too small
+
+the plot is largely empty (remember tufte's rules!) a shorter more compact y axis would help comparison
+
+tvm237
+============
+
+
+
+the 3d is making the plot extremely hard to read. furthermore it is not needed since the third dimension is redundant with the color. the slope of the lines cannot be read clearly due to the perspective. 
+
+axis labels X,Y,Z should be changed to meaningful labels
+
+the orange label is very hard to read. 
+
+the points are larger than needed. in fact they are redundant with the line, though they may add readability to it they would be better smaller. 
+
+the horizontal grid is not needed as the value are categorical, and in fact it seem to be deformed in a way that i dont understand
+
+
+
+
+============
+
+the choice of a single color colormap is great: it shows gradients intuitively without suggesting anything else. however the color map has a large gradient between the first and  second color (gray to pink) which is misleading as it separates the locations with this color as different, while the range is 0-2: an interval as any other in the carbon emission scale.
+
+the upper range is not bound. it should be shown somewhere for reference what the true range is
+
+the granularity is not explained. an explanation for it does not necessarily belong in the plot but if this were included in a document it should certainly be explained why some regions are very finely sampled and others are note 
+
+alaska and hawaii are nicely included and separated appropriately but he gray lines (though the polygon around hawaii has a lot of sides that are not necessary separating empty space between HW and AK giving the odd impression that HW is surrounded
+
+"Figure" is not needed in the figure title/caption
+
